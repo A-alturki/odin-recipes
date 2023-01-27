@@ -30,3 +30,13 @@ img{
 .main-line{
     font-weight: 800;
 }
+
+.list-head{
+    color:aliceblue;
+    background-color: black;
+}
+
+#list-element{
+    color:red;
+    background: blue;
+}
