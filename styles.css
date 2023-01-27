@@ -1,0 +1,32 @@
+.title{
+    text-align:center;
+    color:crimson;
+    background-color: black;
+    font-family: 'times new roman', serif;
+}
+
+img{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#crab{
+    border-radius: 50%; 
+}
+
+.line{
+    color:blueviolet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.line2{
+    color:cornflowerblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.main-line{
+    font-weight: 800;
+}
